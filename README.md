@@ -21,7 +21,7 @@ You can modify the BROKER_URL default variables directly in the `run.sh` script 
 
 ```bash
 BROKER_URL="amqp://localhost:5672/"
-ENDPOINT="coincidences_analyzer1"
+ENDPOINT="coincidences_analyzer"
 ```
 
 ### 3. Run the Application
