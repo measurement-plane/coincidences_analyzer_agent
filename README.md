@@ -6,7 +6,7 @@ This repository provides a setup for deploying the Coincidences Analyzer Agent u
 
 - Docker installed on your system.
 - Access to the Docker image `amlabdr/coincidences_analyzer_agent:latest`.
-- (Not required for runnin the GUI but required for working properly) A running message broker (e.g., activemq) accessible at the specified `BROKER_URL`.
+- A running message broker (e.g., activemq) accessible at the specified `BROKER_URL`.
 
 ## Quick Start
 
